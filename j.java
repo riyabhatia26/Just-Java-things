@@ -112,6 +112,10 @@ class Dog extends Animal implements pet{
 //		d.speak();
 //		d.walk();
 
+//		cat c = new cat();
+//		c.speak();
+//		c.walk();
+
 //		animal ad = new dog();
 //		ad.speak();
 	//	ad.walk();
