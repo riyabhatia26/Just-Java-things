@@ -3,6 +3,7 @@
 public class doubt{
 	public static void main(String[] args){
 		B x = new B();
+		B.met();
 	}
 }
 
